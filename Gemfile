@@ -70,3 +70,8 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem 'faker'
+gem 'devise'
+gem 'figaro'
+
