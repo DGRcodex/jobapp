@@ -74,4 +74,6 @@ end
 gem 'faker'
 gem 'devise'
 gem 'figaro'
+gem 'aws-sdk-s3'
+
 
